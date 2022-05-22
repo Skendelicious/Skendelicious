@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skendelicious
 - 👀 I’m interested in technology and beekeeping
 - 🌱 I’m currently learning beekeeping and learning from my students
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on beekeeping with the help of technology
 - 📫 How to reach me twitter @timmeneer
 
 <!---
